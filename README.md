@@ -27,10 +27,10 @@ Make sure you have already installed Docker Engine. You don’t need to install 
 
 ## Install and Run
 
-`git clone https://github.com/Dhruval59/Myportfolio.git`
-`cd Myportfolio`
-`docker build -t myapp .`
-`docker run -p 3000:3000 myapp`
+`git clone https://github.com/Dhruval59/Myportfolio.git` <br/>
+`cd Myportfolio` <br/>
+`docker build -t myapp .` <br/>
+`docker run -p 3000:3000 myapp` <br/>
 
 Go to http://localhost:3000
 
