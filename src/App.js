@@ -4,6 +4,7 @@ import Preloader from "../src/components/Pre";
 import Home from "./components/Home/Home";
 import About from "./components/About";
 import Projects from "./components/Project/Projects";
+// import Resume from "./components/Resume";
 import Navbar from "./components/Navbar";
 import { BrowserRouter as Router, Route, Switch, Redirect, useLocation } from "react-router-dom";
 import "./style.css";
@@ -35,6 +36,7 @@ function App() {
         <Switch>
           <Route path="/" exact component={Home} />
           <Route path="/project" component={Projects} />
+          {/* <Route path="/profile" component={Resume} /> */}
           <Route path="/about" component={About} />
           <Redirect from="*" to="/" />
         </Switch>

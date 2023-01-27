@@ -3,7 +3,7 @@ import { Container, Row, Col, Modal, Button } from "react-bootstrap";
 import "../style.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 
-import logo from "../../src/Images/load.gif";
+// import logo from "../../src/Images/load.gif";
 import aws from "../../src/Images/icons/icons8-amazon-web-services.svg"
 import jenkins from "../../src/Images/icons/icons8-jenkins.svg"
 import ansible from "../../src/Images/icons/icons8-ansible.svg"
@@ -42,11 +42,12 @@ function About() {
                     Hi Everyone, I am <strong className="main-name">Dhruval Sharma </strong>
                     from Gujarat, India.
                     <br />I completed my B.Tech from Dharmsinh Desai University, Nadiad and I started my career with 
-                    <strong className="main-name"> SRE</strong> role.
-                    
+                    <strong className="main-name"> Site Reliability Engineer (SRE)</strong> role at Crest Data Systems.
+                    <br />
+                    <br /> I am pursuing Master's in Computer Science at Lakehead University, ON, Canada. 
                     <br />
                     <br />
-                    Apart from <strong className="main-name">Computers</strong>, Few activities I love to do!
+                    Apart from Computers, Few activities I love to do!
                 </p>
                 <ul style={{ textAlign: "left", fontSize: "1.6em"}}>
                     <li>Playing Tabla</li>
@@ -55,12 +56,12 @@ function About() {
                 </ul>
                 </div>
             </Col>
-            <Col
+            {/* <Col
               md={5}
               style={{ paddingTop: "120px", paddingBottom: "50px" }}
             >
               <img src={logo} alt="loading..." className="img-fluid"/>
-            </Col>
+            </Col> */}
           </Row>
           <h1>
             Professional <strong>Skillset </strong>

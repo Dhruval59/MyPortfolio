@@ -23,6 +23,7 @@ function Projects() {
             imgPath={Vote}
             title="Online Election Management System"
             description="Implemented Database schema for undertaking online voting using MySQL and provided front end functionalities with the use of PHP."
+            techStack="MySQL, PHP, HTML, CSS"
             />
           </Col>
 
@@ -31,6 +32,7 @@ function Projects() {
             imgPath={Sentiment}
             title="Twitter Sentiment Analysis"
             description="Sentiment Analysis of Twitter users. Collected real tweets of users using Twitter API and classified the polarity & sentiments of any individual using python. Also developed the front-end pages using the Django framework."
+            techStack="Twitter Developer API, Python, Django"
             />
           </Col>
 
@@ -39,6 +41,7 @@ function Projects() {
             imgPath={Automate}
             title="Deploying and managing applications"
             description="Automation for deployment of instances and installing services. Constructed the plans in Terraform to deploy EC2 machines on AWS and installed the application on it using Jenkins CI/CD."
+            techStack="AWS, Terraform, Ansible, Jenkins, Git"
             />
           </Col>
           
@@ -52,6 +55,7 @@ function Projects() {
             TensorFlow 2 Object Detection API. Used the medium size dataset containing pictures of different people on vehicles. Applied Faster RCNN Algorithm for
             training the data. Achieved around 90% of accuracy. Created the dashboard using detection API to compare the performance of the
             trained model with the results of other approaches."
+            techStack="Tensorflow, Keras, Python"
             />
           </Col>
 
@@ -61,6 +65,7 @@ function Projects() {
             title="Fake News Detection using Tree-based and Deep Learning model"
             description="Used a combination of three datasets to build the generalized model. Implemented Adaboost and XGBoost classifier
             along with CNN Deep learning model. Applied NLP techniques like tokenization and normalization. Achieved around 95% accuracy Score on XGBoost."
+            techStack="Python, JupyterNotebook"
             />
           </Col>
         </Row>

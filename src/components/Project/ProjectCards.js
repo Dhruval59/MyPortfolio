@@ -13,6 +13,7 @@ function ProjectCards(props) {
         {props.description}
         </Card.Text>
       </Card.Body>
+      <Card.Footer>Tech Stack: {props.techStack}</Card.Footer>
     </Card>
   );
 }
