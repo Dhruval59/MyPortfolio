@@ -25,6 +25,8 @@ function Home() {
 
               <div style={{ padding: 50, textAlign: "left", fontSize: '1.2em' }}>
                 <Type />
+                <br />
+                <a href="https://www.buymeacoffee.com/dhruvalsharma"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style={{ width: 217, height: 60 }}/></a>
               </div>
               
             </Col>
