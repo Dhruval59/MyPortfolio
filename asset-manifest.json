@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Myportfolio/static/css/main.57e8dae5.chunk.css",
+    "main.js": "/Myportfolio/static/js/main.297b6c2a.chunk.js",
+    "main.js.map": "/Myportfolio/static/js/main.297b6c2a.chunk.js.map",
+    "runtime-main.js": "/Myportfolio/static/js/runtime-main.57d7a86f.js",
+    "runtime-main.js.map": "/Myportfolio/static/js/runtime-main.57d7a86f.js.map",
+    "static/css/2.c374eb44.chunk.css": "/Myportfolio/static/css/2.c374eb44.chunk.css",
+    "static/js/2.ef38daed.chunk.js": "/Myportfolio/static/js/2.ef38daed.chunk.js",
+    "static/js/2.ef38daed.chunk.js.map": "/Myportfolio/static/js/2.ef38daed.chunk.js.map",
+    "static/js/3.8c129331.chunk.js": "/Myportfolio/static/js/3.8c129331.chunk.js",
+    "static/js/3.8c129331.chunk.js.map": "/Myportfolio/static/js/3.8c129331.chunk.js.map",
+    "index.html": "/Myportfolio/index.html",
+    "static/css/2.c374eb44.chunk.css.map": "/Myportfolio/static/css/2.c374eb44.chunk.css.map",
+    "static/css/main.57e8dae5.chunk.css.map": "/Myportfolio/static/css/main.57e8dae5.chunk.css.map",
+    "static/js/2.ef38daed.chunk.js.LICENSE.txt": "/Myportfolio/static/js/2.ef38daed.chunk.js.LICENSE.txt",
+    "static/media/automate.3ceacab0.jpg": "/Myportfolio/static/media/automate.3ceacab0.jpg",
+    "static/media/dhruval.21f020e4.png": "/Myportfolio/static/media/dhruval.21f020e4.png",
+    "static/media/fakenews.91570bcc.png": "/Myportfolio/static/media/fakenews.91570bcc.png",
+    "static/media/helmet.e141f97b.jpg": "/Myportfolio/static/media/helmet.e141f97b.jpg",
+    "static/media/icons8-amazon-web-services.f31b5653.svg": "/Myportfolio/static/media/icons8-amazon-web-services.f31b5653.svg",
+    "static/media/icons8-ansible.a474f70b.svg": "/Myportfolio/static/media/icons8-ansible.a474f70b.svg",
+    "static/media/icons8-docker.42acaea4.svg": "/Myportfolio/static/media/icons8-docker.42acaea4.svg",
+    "static/media/icons8-jenkins.67e41840.svg": "/Myportfolio/static/media/icons8-jenkins.67e41840.svg",
+    "static/media/icons8-python.58d5a0a7.svg": "/Myportfolio/static/media/icons8-python.58d5a0a7.svg",
+    "static/media/icons8-react-native.2d80508d.svg": "/Myportfolio/static/media/icons8-react-native.2d80508d.svg",
+    "static/media/style.css": "/Myportfolio/static/media/pre.d4812f51.svg",
+    "static/media/sentiment.e344c18f.jpg": "/Myportfolio/static/media/sentiment.e344c18f.jpg",
+    "static/media/vote.662fbc51.jpg": "/Myportfolio/static/media/vote.662fbc51.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57d7a86f.js",
+    "static/css/2.c374eb44.chunk.css",
+    "static/js/2.ef38daed.chunk.js",
+    "static/css/main.57e8dae5.chunk.css",
+    "static/js/main.297b6c2a.chunk.js"
+  ]
+}
